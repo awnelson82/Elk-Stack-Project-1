@@ -3,7 +3,7 @@
  
 The files in this repository were used to configure the network depicted below.
 
-![vNet Diagram](https://github.com/Diablo5G/ELK-Stack-Project/blob/main/Resources/Diagrams/ELK-Project-V1.jpg)
+![vNet Diagram]([https://github.com/Diablo5G/ELK-Stack-Project/blob/main/Resources/Diagrams/ELK-Project-V1.jpg](https://github.com/awnelson82/Elk-Stack-Project-1/blob/main/Diagrams/homework12%20(2).drawio))
  
 
   - [install-elk.yml](https://github.com/awnelson82/Elk-Stack-Project-1/blob/main/Ansible/install-elk.yml)
